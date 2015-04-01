@@ -18,7 +18,7 @@
 import logging
 
 from datetime import timedelta
-from edda.supporting_methods import *
+from supporting_methods import *
 from operator import itemgetter
 
 LOGGER = logging.getLogger(__name__)

@@ -15,8 +15,8 @@
 import logging
 import unittest #replacing clock skew uses supporting methods, so there is the problem with the import statement
 
-from edda.post.replace_clock_skew import replace_clock_skew
-from edda.supporting_methods import assign_address
+from post.replace_clock_skew import replace_clock_skew
+from supporting_methods import assign_address
 from datetime import *
 from pymongo import Connection #The tests fail, but this module is not currently used. 
 

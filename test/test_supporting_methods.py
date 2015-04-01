@@ -14,7 +14,7 @@
 
 import unittest
 from datetime import datetime
-from edda.supporting_methods import *
+from supporting_methods import *
 
 # Some months for testing
 JUL = 7

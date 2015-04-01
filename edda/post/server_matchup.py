@@ -16,7 +16,7 @@
 import logging
 
 from copy import deepcopy
-from edda.supporting_methods import *
+from supporting_methods import *
 
 LOGGER = logging.getLogger(__name__)
 
